@@ -6,7 +6,7 @@
   Всем привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Меня зовут Игорь.
 </h1>
 
-<h2>
+  <h2>
   Я начинающий frontend-разработчик.
 </h2>
 
@@ -24,6 +24,16 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> 
   <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
 </div>
+
+<h2>
+  Контакты:
+</h2>
+<p>
+  <div>+7(953)628-88-68</div>
+  <div><a href="https://mail.yandex.ru">majjor25karpenko@yandex.ru</a></div>
+</p>
+
+
 
 <!--
 **proggi28/proggi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
