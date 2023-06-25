@@ -30,7 +30,7 @@
 </h2>
 <p>
   <div>+7(953)628-88-68</div>
-  <div><a href="https://mail.yandex.ru">majjor25karpenko@yandex.ru</a></div>
+  <div><a href="mailto: majjor25karpenko@yandex.ru">majjor25karpenko@yandex.ru</a></div>
 </p>
 
 
